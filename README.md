@@ -14,7 +14,7 @@ Interactive Dashboard Development: Provide a user-friendly dashboard for stakeho
 
 # Conclusion
 The analysis revealed key insights:
-# Highest Production: Achieved in 2004 (21.07 million metric tons), with Kerala leading in state-wise production.
-# Crops & Seasons: Coconut was the highest-yielding crop, and Kharif was the most productive season.
-# Key States: Uttar Pradesh had the highest cultivation frequency and land usage, followed by Madhya Pradesh and Maharashtra.
-# Insights emphasize focusing on crop-specific and region-specific strategies to improve yield and optimize resource allocation.
+ ***Highest Production:*** Achieved in 2004 (21.07 million metric tons), with Kerala leading in state-wise production.
+ ***Crops & Seasons:*** Coconut was the highest-yielding crop, and Kharif was the most productive season.
+ ***Key States:*** Uttar Pradesh had the highest cultivation frequency and land usage, followed by Madhya Pradesh and Maharashtra.
+Insights emphasize focusing on crop-specific and region-specific strategies to improve yield and optimize resource allocation.
